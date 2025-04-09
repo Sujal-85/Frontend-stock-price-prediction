@@ -251,7 +251,7 @@ export default function Navbar() {
               </AnimatedButton>
               
               <AnimatedButton 
-                href='https://sujal-85-stock-price-prediction-project-app-lxl0hw.streamlit.app/'
+                href='https://sujal-85-stock-price-prediction-project-app-cwvodq.streamlit.app/'
                 color="inherit"
                 target="_blank" // Opens in a new tab
                 rel="noopener noreferrer" 
